@@ -131,4 +131,9 @@ lines(mydatapred1$pred-2*mydatapred1$se, col="red")
 #Confidence interval lies between the two red lines. Took (2*(+,-) standard deviation) from predicted value to define and plot confidence interval
 
 
+<<<<<<< HEAD
 #-------------------------------
+=======
+#-------------------------------
+
+>>>>>>> aff0fb525426da66753aeec63b9709c8b1e0d1fb
