@@ -5,6 +5,13 @@
 # ii.) Parameter estimation 
 # iii.) Diagnostic checking. 
 
+
+# Let us work on the JohnsonJohnson dataset which is in-built in R to workout the Time-Series problem
+# For more information on this dataset or any other dataset that is in-built in R, please visit the following site:
+
+# https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/JohnsonJohnson.html
+
+
 ## a) 
 
 # An important step before fitting an ARIMA function is to make sure the timeseries
